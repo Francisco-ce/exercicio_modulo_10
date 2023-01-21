@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #3CB371;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.container {
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.form-campo {
+    margin: 10px 0;
+    width: 340px;
+}
+
+form, input {
+    width: 340px;
+}
+
+
+
